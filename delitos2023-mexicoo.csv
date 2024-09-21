@@ -1,0 +1,567 @@
+﻿Año;Clave_Ent;Entidad;Cve. Municipio;Municipio;Bien jurídico afectado;Tipo de delito;Subtipo de delito;Modalidad;Enero;Febrero;Marzo;Abril;Mayo;Junio;Julio;Agosto;Septiembre;Octubre;Noviembre;Diciembre
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma de fuego;1;2;2;1;1;1;1;4;1;1;0;2
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma blanca;2;1;0;1;0;2;0;3;1;0;3;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con otro elemento;1;0;1;0;0;3;0;0;1;1;2;1
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio doloso;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio culposo;En accidente de tránsito;6;7;7;4;5;6;5;6;6;5;6;9
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Homicidio;Homicidio culposo;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma de fuego;4;4;4;2;1;0;1;3;3;6;0;3
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma blanca;12;9;8;10;5;13;11;12;8;11;8;6
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con otro elemento;119;136;162;128;168;192;123;131;132;128;112;113
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;No especificado;51;60;62;53;52;51;50;51;62;62;39;52
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma de fuego;0;1;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones culposas;En accidente de tránsito;43;52;65;62;69;52;41;50;69;52;46;49
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Lesiones;Lesiones culposas;No especificado;9;12;3;9;7;6;5;11;10;7;12;9
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Feminicidio;Feminicidio;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Aborto;Aborto;Aborto;2;1;0;3;0;1;1;1;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La vida y la Integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;5;4;4;7;8;3;0;3;1;0;0;4
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Secuestro;Secuestro;Secuestro extorsivo;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Secuestro;Secuestro;Secuestro con calidad de rehén;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Secuestro;Secuestro;Secuestro para causar daño;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Secuestro;Secuestro;Secuestro exprés;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Secuestro;Secuestro;Otro tipo de secuestros;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Tráfico de menores;Tráfico de menores;Tráfico de menores;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Rapto;Rapto;Rapto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;26;15;26;23;21;15;16;23;17;27;25;21
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Abuso sexual;Abuso sexual;Abuso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Acoso sexual;Acoso sexual;Acoso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Hostigamiento sexual;Hostigamiento sexual;Hostigamiento sexual;5;15;28;15;22;18;19;10;8;12;11;13
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Violación simple;Violación simple;Violación simple;13;14;21;13;20;19;26;17;13;18;15;14
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Violación equiparada;Violación equiparada;Violación equiparada;5;10;10;11;5;8;12;9;9;9;9;6
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Incesto;Incesto;Incesto;0;0;0;0;0;0;1;0;0;0;0;3
+2023;1;Aguascalientes;1001;Aguascalientes;La libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;34;36;45;46;52;58;33;27;47;32;41;27
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a casa habitación;Con violencia;4;5;6;2;3;1;4;7;5;5;3;2
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a casa habitación;Sin violencia;143;120;131;144;134;91;121;134;128;113;108;97
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Con violencia;4;7;4;4;5;4;10;2;1;2;3;5
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Sin violencia;32;29;65;56;65;35;37;40;39;35;52;44
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Con violencia;0;3;4;1;1;5;1;1;0;0;1;4
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Sin violencia;54;31;46;47;57;27;36;32;39;46;28;46
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de autopartes;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de autopartes;Sin violencia;73;45;53;61;50;62;71;91;121;80;62;85
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a transportista;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a transportista;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a transeúnte en vía pública;Con violencia;43;43;43;73;52;36;36;42;44;48;51;42
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a transeúnte en vía pública;Sin violencia;70;59;55;102;102;77;90;94;63;91;55;53
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Con violencia;1;1;1;1;1;0;0;0;1;1;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Sin violencia;0;0;0;0;0;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo en transporte público individual;Con violencia;2;2;2;6;7;2;2;5;3;4;10;7
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo en transporte público individual;Sin violencia;5;6;7;8;10;5;11;8;4;8;6;6
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo en transporte público colectivo;Con violencia;0;0;3;1;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo en transporte público colectivo;Sin violencia;2;0;1;2;2;3;4;0;0;1;1;1
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo en transporte individual;Con violencia;2;2;0;2;1;3;0;2;3;0;3;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo en transporte individual;Sin violencia;0;0;0;2;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a institución bancaria;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a institución bancaria;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a negocio;Con violencia;16;18;10;11;15;5;22;11;6;13;7;14
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo a negocio;Sin violencia;108;89;121;103;139;125;104;137;116;155;97;111
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de ganado;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de ganado;Sin violencia;6;3;4;3;3;2;8;3;3;2;4;6
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Con violencia;0;0;0;0;0;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Otros robos;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Robo;Otros robos;Sin violencia;99;95;119;68;120;87;105;110;84;92;83;86
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Fraude;Fraude;Fraude;198;155;229;187;225;223;198;243;171;218;207;207
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Abuso de confianza;Abuso de confianza;Abuso de confianza;57;36;69;61;62;70;60;44;53;51;51;37
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Extorsión;Extorsión;Extorsión;8;4;4;2;8;0;5;6;8;11;9;2
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Daño a la propiedad;Daño a la propiedad;Daño a la propiedad;292;288;321;288;344;319;297;253;268;278;251;274
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Despojo;Despojo;Despojo;15;21;17;26;31;15;29;26;22;16;14;20
+2023;1;Aguascalientes;1001;Aguascalientes;El patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;15;20;33;34;26;20;36;18;14;16;11;8
+2023;1;Aguascalientes;1001;Aguascalientes;La familia;Violencia familiar;Violencia familiar;Violencia familiar;164;185;249;208;232;235;229;204;198;149;145;330
+2023;1;Aguascalientes;1001;Aguascalientes;La familia;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;0;3;1;4;3;1;0;0;0;1;1;2
+2023;1;Aguascalientes;1001;Aguascalientes;La familia;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;22;25;25;12;24;19;35;19;24;26;20;9
+2023;1;Aguascalientes;1001;Aguascalientes;La familia;Otros delitos contra la familia;Otros delitos contra la familia;Otros delitos contra la familia;1;2;5;2;6;2;3;1;0;2;1;0
+2023;1;Aguascalientes;1001;Aguascalientes;La sociedad;Corrupción de menores;Corrupción de menores;Corrupción de menores;3;6;4;3;4;4;3;6;5;4;3;1
+2023;1;Aguascalientes;1001;Aguascalientes;La sociedad;Trata de personas;Trata de personas;Trata de personas;0;0;0;0;1;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;La sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Narcomenudeo;Narcomenudeo;Narcomenudeo;145;135;132;89;96;70;132;147;109;151;134;122
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Amenazas;Amenazas;Amenazas;196;253;317;242;302;305;234;237;212;181;203;231
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Allanamiento de morada;Allanamiento de morada;Allanamiento de morada;32;35;34;31;32;42;37;40;36;33;29;30
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Evasión de presos;Evasión de presos;Evasión de presos;1;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Falsedad;Falsedad;Falsedad;10;6;9;7;14;5;9;7;7;11;10;3
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Falsificación;Falsificación;Falsificación;24;5;8;5;7;9;10;8;10;11;9;0
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Contra el medio ambiente;Contra el medio ambiente;Contra el medio ambiente;3;5;7;5;10;5;6;1;1;3;4;3
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;38;40;38;39;33;38;41;42;33;42;57;33
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Electorales;Electorales;Electorales;0;0;0;0;0;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1001;Aguascalientes;Otros bienes jurídicos afectados (del fuero común);Otros delitos del Fuero Común;Otros delitos del Fuero Común;Otros delitos del Fuero Común;210;303;312;343;325;335;271;288;243;192;190;258
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma de fuego;0;0;0;0;0;0;0;0;2;0;1;1
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio doloso;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio culposo;En accidente de tránsito;0;0;1;1;0;0;4;0;3;1;1;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Homicidio;Homicidio culposo;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma de fuego;0;0;0;0;0;1;0;0;0;1;1;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma blanca;0;0;1;0;1;0;0;4;0;1;1;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con otro elemento;4;6;4;8;6;3;7;1;3;3;6;2
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;No especificado;1;3;3;3;3;3;5;5;2;1;2;2
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones culposas;En accidente de tránsito;3;1;3;3;1;1;3;1;2;1;2;3
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Lesiones;Lesiones culposas;No especificado;2;0;0;0;0;0;0;0;0;0;0;1
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Feminicidio;Feminicidio;No especificado;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Aborto;Aborto;Aborto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La vida y la Integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;0;1;0;0;0;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Secuestro;Secuestro;Secuestro extorsivo;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Secuestro;Secuestro;Secuestro con calidad de rehén;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Secuestro;Secuestro;Secuestro para causar daño;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Secuestro;Secuestro;Secuestro exprés;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Secuestro;Secuestro;Otro tipo de secuestros;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Tráfico de menores;Tráfico de menores;Tráfico de menores;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Rapto;Rapto;Rapto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;0;0;2;1;1;0;2;2;0;3;2;2
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Abuso sexual;Abuso sexual;Abuso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Acoso sexual;Acoso sexual;Acoso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Hostigamiento sexual;Hostigamiento sexual;Hostigamiento sexual;1;0;0;0;1;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Violación simple;Violación simple;Violación simple;1;0;0;0;0;0;1;0;0;1;0;0
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Violación equiparada;Violación equiparada;Violación equiparada;0;0;0;1;0;0;0;0;1;1;0;0
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Incesto;Incesto;Incesto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;1;3;0;1;4;3;0;1;1;0;1;1
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a casa habitación;Con violencia;0;0;0;0;0;0;1;0;1;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a casa habitación;Sin violencia;2;4;7;1;1;3;1;2;3;5;2;3
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Con violencia;0;0;3;4;4;0;0;0;0;0;0;2
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Sin violencia;0;0;1;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Con violencia;1;0;4;2;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Sin violencia;0;1;0;2;1;1;3;0;0;1;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de autopartes;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de autopartes;Sin violencia;2;0;0;0;0;3;0;1;1;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a transportista;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a transportista;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a transeúnte en vía pública;Con violencia;0;1;1;0;0;0;1;0;0;0;0;1
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a transeúnte en vía pública;Sin violencia;1;2;2;1;1;3;6;1;0;0;1;1
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo en transporte público individual;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo en transporte público individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo en transporte público colectivo;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo en transporte público colectivo;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo en transporte individual;Con violencia;0;1;0;1;0;0;0;1;0;1;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo en transporte individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a institución bancaria;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a institución bancaria;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a negocio;Con violencia;0;0;0;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo a negocio;Sin violencia;2;2;1;5;3;5;2;4;2;2;2;2
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de ganado;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de ganado;Sin violencia;0;2;1;2;0;3;1;2;0;0;1;2
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Otros robos;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Robo;Otros robos;Sin violencia;6;8;5;13;5;3;5;6;4;3;5;4
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Fraude;Fraude;Fraude;2;2;4;2;2;1;3;2;7;1;3;3
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Abuso de confianza;Abuso de confianza;Abuso de confianza;1;0;1;1;0;0;3;0;3;3;4;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Extorsión;Extorsión;Extorsión;1;1;0;0;1;0;1;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Daño a la propiedad;Daño a la propiedad;Daño a la propiedad;8;3;14;7;10;11;10;7;8;4;6;5
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Despojo;Despojo;Despojo;1;0;2;1;0;0;0;2;0;1;1;0
+2023;1;Aguascalientes;1002;Asientos;El patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;1;0;0;2;1;0;1;1;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La familia;Violencia familiar;Violencia familiar;Violencia familiar;0;6;7;4;6;8;5;5;4;5;5;3
+2023;1;Aguascalientes;1002;Asientos;La familia;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La familia;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La familia;Otros delitos contra la familia;Otros delitos contra la familia;Otros delitos contra la familia;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La sociedad;Corrupción de menores;Corrupción de menores;Corrupción de menores;0;0;0;0;0;0;0;0;0;0;1;1
+2023;1;Aguascalientes;1002;Asientos;La sociedad;Trata de personas;Trata de personas;Trata de personas;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;La sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Narcomenudeo;Narcomenudeo;Narcomenudeo;12;13;17;17;15;10;6;5;2;4;4;3
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Amenazas;Amenazas;Amenazas;6;7;12;9;8;13;12;10;9;9;5;16
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Allanamiento de morada;Allanamiento de morada;Allanamiento de morada;1;2;1;1;0;0;2;1;2;2;1;2
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Evasión de presos;Evasión de presos;Evasión de presos;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Falsedad;Falsedad;Falsedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Falsificación;Falsificación;Falsificación;4;3;3;4;1;4;7;2;2;0;1;1
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Contra el medio ambiente;Contra el medio ambiente;Contra el medio ambiente;0;0;0;0;2;0;0;0;0;1;1;1
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;2;0;0;1;0;0;0;0;0;1;0;0
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Electorales;Electorales;Electorales;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1002;Asientos;Otros bienes jurídicos afectados (del fuero común);Otros delitos del Fuero Común;Otros delitos del Fuero Común;Otros delitos del Fuero Común;2;2;2;3;7;3;4;4;0;5;2;4
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con otro elemento;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio doloso;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio culposo;En accidente de tránsito;2;0;0;1;1;0;1;2;0;1;2;1
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Homicidio;Homicidio culposo;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma de fuego;0;1;0;0;0;0;0;1;0;0;0;1
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma blanca;0;0;0;0;0;1;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con otro elemento;4;4;7;2;6;5;3;5;6;7;5;5
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;No especificado;4;3;3;4;4;9;3;1;0;4;2;2
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones culposas;En accidente de tránsito;5;2;3;3;2;0;0;4;1;3;5;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Lesiones;Lesiones culposas;No especificado;0;0;0;1;0;1;0;0;0;1;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma blanca;0;0;0;0;0;1;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Feminicidio;Feminicidio;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Aborto;Aborto;Aborto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La vida y la Integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;0;0;1;0;1;0;0;0;0;0;0;2
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Secuestro;Secuestro;Secuestro extorsivo;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Secuestro;Secuestro;Secuestro con calidad de rehén;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Secuestro;Secuestro;Secuestro para causar daño;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Secuestro;Secuestro;Secuestro exprés;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Secuestro;Secuestro;Otro tipo de secuestros;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Tráfico de menores;Tráfico de menores;Tráfico de menores;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Rapto;Rapto;Rapto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;0;0;1;0;0;3;1;0;0;0;2;1
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Abuso sexual;Abuso sexual;Abuso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Acoso sexual;Acoso sexual;Acoso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Hostigamiento sexual;Hostigamiento sexual;Hostigamiento sexual;0;0;2;1;0;1;0;0;0;0;0;1
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Violación simple;Violación simple;Violación simple;0;0;1;0;0;1;0;0;2;0;0;2
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Violación equiparada;Violación equiparada;Violación equiparada;0;1;0;0;0;0;0;1;0;0;1;0
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Incesto;Incesto;Incesto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;1;0;3;1;0;0;1;2;0;0;1;1
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a casa habitación;Con violencia;1;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a casa habitación;Sin violencia;5;3;7;4;4;7;0;5;6;2;6;4
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Con violencia;0;1;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Sin violencia;5;1;0;0;2;1;0;0;1;2;2;4
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Sin violencia;1;1;2;1;2;0;1;1;0;2;1;1
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de autopartes;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de autopartes;Sin violencia;2;1;2;1;0;2;1;1;2;2;3;2
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a transportista;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a transportista;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a transeúnte en vía pública;Con violencia;0;0;2;0;0;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a transeúnte en vía pública;Sin violencia;1;2;5;1;0;4;1;0;0;1;0;1
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo en transporte público individual;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo en transporte público individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo en transporte público colectivo;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo en transporte público colectivo;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo en transporte individual;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo en transporte individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a institución bancaria;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a institución bancaria;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a negocio;Con violencia;0;0;0;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo a negocio;Sin violencia;7;1;8;9;5;6;6;3;7;5;2;2
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de ganado;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de ganado;Sin violencia;0;0;0;1;1;2;3;0;2;2;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Otros robos;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Robo;Otros robos;Sin violencia;6;4;4;4;5;1;2;3;5;5;3;7
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Fraude;Fraude;Fraude;6;0;6;3;4;6;3;3;5;6;4;3
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Abuso de confianza;Abuso de confianza;Abuso de confianza;1;0;1;1;1;0;3;2;0;1;3;1
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Extorsión;Extorsión;Extorsión;0;1;0;1;0;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Daño a la propiedad;Daño a la propiedad;Daño a la propiedad;14;11;12;9;12;15;8;9;6;19;13;14
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Despojo;Despojo;Despojo;2;0;3;3;2;2;0;1;1;3;1;2
+2023;1;Aguascalientes;1003;Calvillo;El patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;0;1;1;1;0;1;1;0;0;0;1;0
+2023;1;Aguascalientes;1003;Calvillo;La familia;Violencia familiar;Violencia familiar;Violencia familiar;2;4;4;3;3;2;0;1;4;3;0;3
+2023;1;Aguascalientes;1003;Calvillo;La familia;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La familia;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La familia;Otros delitos contra la familia;Otros delitos contra la familia;Otros delitos contra la familia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La sociedad;Corrupción de menores;Corrupción de menores;Corrupción de menores;0;0;0;1;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La sociedad;Trata de personas;Trata de personas;Trata de personas;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;La sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Narcomenudeo;Narcomenudeo;Narcomenudeo;4;2;5;3;9;6;4;6;2;5;5;3
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Amenazas;Amenazas;Amenazas;8;7;9;3;3;8;5;7;8;6;7;8
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Allanamiento de morada;Allanamiento de morada;Allanamiento de morada;0;0;0;0;2;0;1;0;0;1;0;1
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Evasión de presos;Evasión de presos;Evasión de presos;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Falsedad;Falsedad;Falsedad;0;0;0;1;2;0;1;0;1;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Falsificación;Falsificación;Falsificación;0;0;0;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Contra el medio ambiente;Contra el medio ambiente;Contra el medio ambiente;1;0;0;1;1;0;0;0;0;1;2;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;1;0;0;0;3;0;0;0;1;0;4;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Electorales;Electorales;Electorales;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1003;Calvillo;Otros bienes jurídicos afectados (del fuero común);Otros delitos del Fuero Común;Otros delitos del Fuero Común;Otros delitos del Fuero Común;1;0;2;3;11;5;3;3;1;7;5;6
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma de fuego;0;0;0;0;0;2;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio doloso;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio culposo;En accidente de tránsito;0;0;1;0;0;1;0;0;0;1;0;1
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Homicidio;Homicidio culposo;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma blanca;0;0;0;1;0;0;0;0;0;0;0;1
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con otro elemento;2;1;0;0;4;1;2;2;4;4;4;2
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;No especificado;0;0;0;0;0;0;0;0;3;0;0;2
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones culposas;En accidente de tránsito;3;1;0;0;1;1;0;0;0;2;0;1
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Lesiones;Lesiones culposas;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Feminicidio;Feminicidio;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Aborto;Aborto;Aborto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La vida y la Integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Secuestro;Secuestro;Secuestro extorsivo;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Secuestro;Secuestro;Secuestro con calidad de rehén;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Secuestro;Secuestro;Secuestro para causar daño;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Secuestro;Secuestro;Secuestro exprés;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Secuestro;Secuestro;Otro tipo de secuestros;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Tráfico de menores;Tráfico de menores;Tráfico de menores;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Rapto;Rapto;Rapto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;0;1;1;1;1;0;0;1;0;0;2;0
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Abuso sexual;Abuso sexual;Abuso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Acoso sexual;Acoso sexual;Acoso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Hostigamiento sexual;Hostigamiento sexual;Hostigamiento sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Violación simple;Violación simple;Violación simple;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Violación equiparada;Violación equiparada;Violación equiparada;0;1;0;0;0;1;0;0;0;0;0;2
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Incesto;Incesto;Incesto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;0;1;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a casa habitación;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a casa habitación;Sin violencia;4;2;3;0;0;2;0;2;1;3;4;2
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Con violencia;0;2;0;0;0;2;2;0;0;1;1;1
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Sin violencia;1;0;0;0;0;0;1;1;0;1;2;1
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Sin violencia;0;1;0;0;0;0;0;0;2;1;1;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de autopartes;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de autopartes;Sin violencia;0;0;0;0;0;0;0;0;1;0;1;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a transportista;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a transportista;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a transeúnte en vía pública;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a transeúnte en vía pública;Sin violencia;1;1;2;0;0;0;0;0;2;0;2;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo en transporte público individual;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo en transporte público individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo en transporte público colectivo;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo en transporte público colectivo;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo en transporte individual;Con violencia;0;0;1;0;0;0;0;1;1;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo en transporte individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a institución bancaria;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a institución bancaria;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a negocio;Con violencia;1;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo a negocio;Sin violencia;0;2;0;2;1;1;0;2;2;0;0;1
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de ganado;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de ganado;Sin violencia;0;0;0;1;0;1;0;0;1;0;1;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Otros robos;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Robo;Otros robos;Sin violencia;3;0;1;1;0;3;3;8;7;5;1;2
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Fraude;Fraude;Fraude;3;0;0;0;0;1;1;0;2;1;1;1
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Abuso de confianza;Abuso de confianza;Abuso de confianza;0;0;1;0;0;0;1;1;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Extorsión;Extorsión;Extorsión;0;0;0;0;0;0;0;1;0;0;1;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Daño a la propiedad;Daño a la propiedad;Daño a la propiedad;3;4;4;1;1;4;1;2;3;5;7;5
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Despojo;Despojo;Despojo;0;0;1;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;El patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La familia;Violencia familiar;Violencia familiar;Violencia familiar;1;1;4;6;1;1;1;1;1;0;3;1
+2023;1;Aguascalientes;1004;Cosío;La familia;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La familia;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La familia;Otros delitos contra la familia;Otros delitos contra la familia;Otros delitos contra la familia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La sociedad;Corrupción de menores;Corrupción de menores;Corrupción de menores;0;0;0;0;0;1;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La sociedad;Trata de personas;Trata de personas;Trata de personas;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;La sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Narcomenudeo;Narcomenudeo;Narcomenudeo;3;2;5;0;5;3;6;2;1;2;2;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Amenazas;Amenazas;Amenazas;1;3;1;3;0;1;0;0;1;1;1;3
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Allanamiento de morada;Allanamiento de morada;Allanamiento de morada;0;1;0;0;1;1;0;0;1;1;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Evasión de presos;Evasión de presos;Evasión de presos;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Falsedad;Falsedad;Falsedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Falsificación;Falsificación;Falsificación;0;0;0;0;1;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Contra el medio ambiente;Contra el medio ambiente;Contra el medio ambiente;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;0;0;0;0;0;0;0;0;0;0;0;1
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Electorales;Electorales;Electorales;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1004;Cosío;Otros bienes jurídicos afectados (del fuero común);Otros delitos del Fuero Común;Otros delitos del Fuero Común;Otros delitos del Fuero Común;1;2;0;1;0;0;0;2;0;0;3;3
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma de fuego;1;2;1;1;0;1;1;1;1;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma blanca;0;0;0;0;0;0;1;1;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con otro elemento;0;0;1;0;0;0;1;0;1;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio doloso;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio culposo;En accidente de tránsito;0;1;0;3;2;3;4;1;2;0;1;1
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Homicidio;Homicidio culposo;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma de fuego;1;3;1;0;1;1;0;2;1;1;1;2
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma blanca;2;1;2;2;4;2;1;1;0;1;2;5
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con otro elemento;11;18;25;18;23;25;22;20;15;19;14;10
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;No especificado;6;3;5;3;9;9;8;9;7;4;2;2
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma de fuego;0;0;0;0;0;0;0;1;0;1;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma blanca;0;0;0;1;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones culposas;En accidente de tránsito;11;14;6;15;8;10;8;7;13;11;10;12
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Lesiones;Lesiones culposas;No especificado;3;0;1;2;1;1;1;2;3;2;0;3
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Feminicidio;Feminicidio;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Aborto;Aborto;Aborto;0;0;0;1;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La vida y la Integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;0;1;0;0;1;2;1;1;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Secuestro;Secuestro;Secuestro extorsivo;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Secuestro;Secuestro;Secuestro con calidad de rehén;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Secuestro;Secuestro;Secuestro para causar daño;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Secuestro;Secuestro;Secuestro exprés;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Secuestro;Secuestro;Otro tipo de secuestros;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Tráfico de menores;Tráfico de menores;Tráfico de menores;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Rapto;Rapto;Rapto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;2;3;3;1;4;2;2;4;2;1;1;1
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Abuso sexual;Abuso sexual;Abuso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Acoso sexual;Acoso sexual;Acoso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Hostigamiento sexual;Hostigamiento sexual;Hostigamiento sexual;0;0;1;1;1;0;1;0;1;0;0;1
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Violación simple;Violación simple;Violación simple;2;1;1;1;0;3;2;0;0;2;0;0
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Violación equiparada;Violación equiparada;Violación equiparada;2;0;2;0;2;1;1;1;1;2;2;0
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Incesto;Incesto;Incesto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;3;4;6;2;1;8;8;2;7;2;5;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a casa habitación;Con violencia;0;0;1;0;0;0;0;0;0;1;1;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a casa habitación;Sin violencia;23;17;15;25;21;41;20;24;23;23;25;16
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Con violencia;0;0;0;0;1;0;1;0;0;0;0;2
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Sin violencia;8;4;7;8;2;5;4;3;8;6;6;9
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Con violencia;1;2;0;0;0;1;0;3;0;2;1;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Sin violencia;6;12;13;6;12;4;8;7;7;6;8;11
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de autopartes;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de autopartes;Sin violencia;13;7;8;4;11;4;9;5;6;7;6;7
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a transportista;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a transportista;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a transeúnte en vía pública;Con violencia;3;4;1;3;3;2;4;3;6;15;3;5
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a transeúnte en vía pública;Sin violencia;4;8;5;7;3;2;6;6;8;9;9;3
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo en transporte público individual;Con violencia;1;0;0;0;0;1;2;5;2;4;3;4
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo en transporte público individual;Sin violencia;0;0;0;0;0;0;0;1;0;0;2;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo en transporte público colectivo;Con violencia;0;0;2;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo en transporte público colectivo;Sin violencia;0;0;0;0;0;0;1;0;0;0;1;1
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo en transporte individual;Con violencia;0;0;0;0;0;0;0;0;1;0;1;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo en transporte individual;Sin violencia;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a institución bancaria;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a institución bancaria;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a negocio;Con violencia;3;3;6;4;2;0;4;6;0;9;12;3
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo a negocio;Sin violencia;16;17;11;14;8;20;15;16;14;13;8;11
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de ganado;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de ganado;Sin violencia;4;1;2;1;2;2;1;1;1;1;1;1
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Sin violencia;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Otros robos;Con violencia;1;0;0;0;1;0;0;0;0;1;0;0
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Robo;Otros robos;Sin violencia;17;23;18;14;21;15;12;19;14;14;9;17
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Fraude;Fraude;Fraude;17;16;22;14;20;20;16;18;14;18;34;14
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Abuso de confianza;Abuso de confianza;Abuso de confianza;5;3;4;5;5;2;7;6;4;4;3;3
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Extorsión;Extorsión;Extorsión;0;0;2;0;1;0;2;0;0;1;0;1
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Daño a la propiedad;Daño a la propiedad;Daño a la propiedad;37;36;37;31;41;28;32;38;33;44;25;43
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Despojo;Despojo;Despojo;2;9;2;1;4;8;4;4;2;3;3;1
+2023;1;Aguascalientes;1005;Jesús María;El patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;Otros delitos contra el patrimonio;1;1;1;2;0;0;0;3;3;2;0;0
+2023;1;Aguascalientes;1005;Jesús María;La familia;Violencia familiar;Violencia familiar;Violencia familiar;17;18;28;20;25;15;13;22;21;16;20;19
+2023;1;Aguascalientes;1005;Jesús María;La familia;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;Violencia de género en todas sus modalidades distinta a la violencia familiar;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La familia;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;Incumplimiento de obligaciones de asistencia familiar;1;2;2;2;3;0;2;0;1;2;2;1
+2023;1;Aguascalientes;1005;Jesús María;La familia;Otros delitos contra la familia;Otros delitos contra la familia;Otros delitos contra la familia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;La sociedad;Corrupción de menores;Corrupción de menores;Corrupción de menores;0;0;1;0;1;2;1;2;1;2;0;0
+2023;1;Aguascalientes;1005;Jesús María;La sociedad;Trata de personas;Trata de personas;Trata de personas;0;0;0;0;0;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1005;Jesús María;La sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;Otros delitos contra la sociedad;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Narcomenudeo;Narcomenudeo;Narcomenudeo;11;21;26;20;10;17;24;22;25;13;11;31
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Amenazas;Amenazas;Amenazas;19;22;36;20;24;30;28;28;23;22;18;13
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Allanamiento de morada;Allanamiento de morada;Allanamiento de morada;7;6;3;7;11;11;7;10;7;10;5;5
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Evasión de presos;Evasión de presos;Evasión de presos;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Falsedad;Falsedad;Falsedad;0;0;0;1;0;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Falsificación;Falsificación;Falsificación;6;2;0;1;2;0;3;2;0;0;3;1
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Contra el medio ambiente;Contra el medio ambiente;Contra el medio ambiente;0;1;1;1;0;0;0;0;0;0;1;1
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;Delitos cometidos por servidores públicos;0;1;0;3;2;1;2;0;0;0;0;1
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Electorales;Electorales;Electorales;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1005;Jesús María;Otros bienes jurídicos afectados (del fuero común);Otros delitos del Fuero Común;Otros delitos del Fuero Común;Otros delitos del Fuero Común;22;27;26;20;23;16;25;24;36;20;23;17
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma de fuego;0;2;2;2;0;0;0;0;0;0;0;1
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con arma blanca;0;0;0;0;0;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio doloso;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio doloso;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio culposo;En accidente de tránsito;2;0;1;1;1;0;2;0;1;0;2;3
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio culposo;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Homicidio;Homicidio culposo;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma de fuego;1;0;0;1;0;1;0;0;0;0;2;1
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con arma blanca;0;0;1;0;0;1;0;1;0;2;2;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;Con otro elemento;4;3;4;5;9;7;11;7;8;12;7;5
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones dolosas;No especificado;9;1;4;1;0;2;8;3;7;4;7;10
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones culposas;En accidente de tránsito;2;1;2;2;0;7;4;2;1;3;1;1
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones culposas;Con otro elemento;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Lesiones;Lesiones culposas;No especificado;0;1;1;0;0;2;1;0;0;1;1;2
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma de fuego;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con arma blanca;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Feminicidio;Feminicidio;Con otro elemento;0;0;0;0;0;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Feminicidio;Feminicidio;No especificado;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Aborto;Aborto;Aborto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La vida y la Integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;Otros delitos que atentan contra la vida y la integridad corporal;0;0;0;0;1;1;0;0;0;1;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Secuestro;Secuestro;Secuestro extorsivo;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Secuestro;Secuestro;Secuestro con calidad de rehén;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Secuestro;Secuestro;Secuestro para causar daño;0;0;0;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Secuestro;Secuestro;Secuestro exprés;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Secuestro;Secuestro;Otro tipo de secuestros;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Tráfico de menores;Tráfico de menores;Tráfico de menores;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Rapto;Rapto;Rapto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;Libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;Otros delitos que atentan contra la libertad personal;3;0;0;1;2;1;2;1;1;1;4;1
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Abuso sexual;Abuso sexual;Abuso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Acoso sexual;Acoso sexual;Acoso sexual;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Hostigamiento sexual;Hostigamiento sexual;Hostigamiento sexual;0;0;0;0;1;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Violación simple;Violación simple;Violación simple;0;0;0;1;1;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Violación equiparada;Violación equiparada;Violación equiparada;0;0;0;1;1;1;2;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Incesto;Incesto;Incesto;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;La libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;Otros delitos que atentan contra la libertad y la seguridad sexual;0;1;0;2;3;1;3;5;0;1;0;3
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a casa habitación;Con violencia;0;0;0;0;0;0;0;1;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a casa habitación;Sin violencia;12;11;4;3;6;10;7;7;5;7;11;6
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Con violencia;0;0;0;1;0;1;0;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de vehículo automotor;Robo de coche de 4 ruedas Sin violencia;0;0;2;0;0;0;1;1;2;1;1;2
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Con violencia;0;0;0;0;1;0;0;0;0;0;1;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de vehículo automotor;Robo de motocicleta Sin violencia;2;1;0;0;2;0;0;2;4;4;2;1
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de vehículo automotor;Robo de embarcaciones pequeñas y grandes Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de autopartes;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de autopartes;Sin violencia;3;0;0;0;0;3;1;1;3;4;0;3
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a transportista;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a transportista;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a transeúnte en vía pública;Con violencia;4;5;0;3;1;4;5;4;3;2;5;3
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a transeúnte en vía pública;Sin violencia;2;7;2;1;2;2;5;3;3;6;5;3
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a transeúnte en espacio abierto al público;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo en transporte público individual;Con violencia;0;0;1;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo en transporte público individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo en transporte público colectivo;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo en transporte público colectivo;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo en transporte individual;Con violencia;0;0;0;0;0;0;0;0;1;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo en transporte individual;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a institución bancaria;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a institución bancaria;Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a negocio;Con violencia;1;1;0;0;1;1;2;0;0;4;2;2
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo a negocio;Sin violencia;8;4;6;4;7;3;5;3;6;3;5;6
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de ganado;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de ganado;Sin violencia;3;3;3;0;0;0;2;1;1;0;2;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de maquinaria;Robo de herramienta industrial o agrícola Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de maquinaria;Robo de tractores Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Robo de maquinaria;Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Otros robos;Con violencia;0;0;0;0;0;0;0;0;0;0;0;0
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Robo;Otros robos;Sin violencia;7;4;3;5;5;10;3;3;6;6;8;2
+2023;1;Aguascalientes;1006;Pabellón de Arteaga;El patrimonio;Fraude;Fraude;Fraude;4;5;8;6;5;3;6;6;2;6;1;9
